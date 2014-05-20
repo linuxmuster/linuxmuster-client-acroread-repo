@@ -1,0 +1,18 @@
+Package: *
+Pin: origin archive.canonical.com
+Pin-Priority: 300
+
+Package: acroread
+Pin: origin archive.canonical.com
+Pin-Priority: 300
+
+Package: acroread-bin:i386
+Pin: origin archive.canonical.com
+Pin-Priority: 300
+
+Package: pdf-viewer
+Pin: origin archive.canonical.com
+Pin-Priority: 300
+
+
+

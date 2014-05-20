@@ -1,0 +1,5 @@
+
+# acroread: Using the precice repo for trusty
+# see also /etc/apt/preferences.d/acroread.pref
+deb http://archive.canonical.com/ubuntu precise partner
+deb-src http://archive.canonical.com/ubuntu precise partner

@@ -1,0 +1,6 @@
+linuxmuster-client-acroread-repo (0.0.4-1) trusty-testing; urgency=medium
+
+  * First test with Adobe Reader 9.5.5
+
+ -- Rüdiger Beck <jeffbeck@web.de>  Tue, 20 May 2014 11:24:31 +0200
+

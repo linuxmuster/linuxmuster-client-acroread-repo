@@ -1,0 +1,15 @@
+Source: linuxmuster-client-acroread-repo
+Section: admin
+Priority: optional
+Maintainer: Ruediger Beck <jeffbeck@web.de>
+Build-Depends: debhelper , perl-base, fakeroot
+Standards-Version: 3.5.2
+
+
+
+Package: linuxmuster-client-acroread-repo
+Architecture: all
+Suggests: 
+Pre-Depends: 
+Description: Install Adobe Reader 9.5.5 (32bit)
+  Download and Install Adobe Reader

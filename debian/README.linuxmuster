@@ -1,0 +1,12 @@
+############################################################
+# Create a package:
+
+
+cd linuxmuster-client-acroread-repo
+dch -i
+make deb
+
+
+############################################################
+
+Updating the two file in ./apt for the sources of acroread
