@@ -1,4 +1,4 @@
-linuxmuster-client-acroread-repo (0.0.5-xenial1) xenial-testing; urgency=medium
+linuxmuster-client-acroread-repo (0.0.5-2) xenial-testing; urgency=medium
 
   * Do not use repo for  other stuff then acroread
 
