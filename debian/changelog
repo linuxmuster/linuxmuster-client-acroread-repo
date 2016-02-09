@@ -1,3 +1,9 @@
+linuxmuster-client-acroread-repo (0.0.5-xenial1) xenial-testing; urgency=medium
+
+  * Do not use repo for  other stuff then acroread
+
+ -- Dominik Foerderer <dominik.foerderer@windeck-gymnasium.de>  Tue, 09 Feb 2016 11:22:55 +0100
+ 
 linuxmuster-client-acroread-repo (0.0.5-1) trusty-testing; urgency=medium
 
   * Do not use repo for  other stuff then acroread
