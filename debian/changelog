@@ -1,3 +1,9 @@
+linuxmuster-client-acroread-repo (0.0.5-3) xenial; urgency=medium
+
+  * First stable release for xenial xerus
+
+ -- Dominik Foerderer <dominik.foerderer@windeck-gymnasium.de>  Mon, 18 Apr 2016 12:41:55 +0100
+ 
 linuxmuster-client-acroread-repo (0.0.5-2) xenial-testing; urgency=medium
 
   * Do not use repo for  other stuff then acroread
